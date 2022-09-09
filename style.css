@@ -4,6 +4,7 @@
     background-color: green;
     min-height: 510px;
     width: 1000px;
+    overflow: hidden;
  }
 
  #header{
@@ -37,4 +38,14 @@
 
  .clear{
     clear: both;
+ }
+
+ .oszlop4{
+    float: left;
+    margin: 5px;
+    width: calc(25% - 10px);
+ }
+
+ .oszlop4 img{
+    width: 100%;
  }
