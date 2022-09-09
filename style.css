@@ -4,7 +4,7 @@
     background-color: green;
     min-height: 510px;
     width: 1000px;
-    overflow: hidden;
+    overflow: hidden; /*nem lóg ki a div-ből*/
  }
 
  #header{
